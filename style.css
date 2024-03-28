@@ -1,0 +1,36 @@
+body {
+background-size:cover;
+}
+
+.heading {
+font-size:23px;
+color:black;
+margin:0px;
+width:100%;
+}
+
+#start,#number_of_objects,#status {
+font-size:18px;
+}
+
+canvas {
+border:2px solid pink;
+border-radius:10px;
+margin-top:50px;
+box-shadow:1px 1px 10px rgb(130, 80, 89);
+}
+
+.copy_right_footer {
+position:fixed;
+bottom:0;
+width:100%;
+line-height:2;
+text-align:center;
+color: darkslateblue;
+background-color: rgb(182, 165, 197);
+}
+
+input {
+width:30%;
+
+}
